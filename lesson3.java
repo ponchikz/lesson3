@@ -78,14 +78,14 @@ public class lesson3 {
         }
     }
     public static int[] returnArr(int len, int initialValue) {
-        int[] arr = new int[len];
+        int[] arr6 = new int[len];
         for (int i = 0; i < len; i++) {
-            arr[i] = initialValue;
+            arr6[i] = initialValue;
         }
-        return arr;
+        return arr6;
     }
 }
-//exit
+
 
 
 
